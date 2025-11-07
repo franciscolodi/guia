@@ -2,7 +2,7 @@ name: Enviar consejo diario
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # 09:00 Chile (UTC-3)
+    - cron: "0 21 * * *"  # 18:00 Chile (UTC-3)
   workflow_dispatch:
 
 jobs:
