@@ -2,213 +2,243 @@
   "dias": [
     {
       "dia": 1,
-      "tema": "Autocontrol",
-      "titulo": "Respirar antes de reaccionar",
-      "mensaje": "La calma es poder. Antes de responder, inhalá profundo tres veces y recordá que no todo merece respuesta inmediata.",
-      "accion": "Practicá el silencio consciente: contá hasta 3 antes de contestar algo que te altere."
+      "tema": "Autocontrol emocional",
+      "titulo": "Respira antes de reaccionar",
+      "mensaje": "La calma no es pasividad, es poder. Cuando respiras antes de responder, eliges la claridad sobre el impulso.",
+      "actividad": "Haz tres respiraciones lentas antes de contestar algo que te altere.",
+      "dialogo": "Comenta con tu pareja una situación donde hayas reaccionado por impulso y cómo podrías manejarla mejor."
     },
     {
       "dia": 2,
-      "tema": "Autoestima",
-      "titulo": "Tu valor no depende de otros",
-      "mensaje": "Tu importancia no la determina una respuesta, un like ni un gesto ajeno. Sos suficiente por el solo hecho de ser.",
-      "accion": "Escribí tres cosas que valorás de vos sin usar comparaciones."
+      "tema": "Autoconocimiento",
+      "titulo": "Entender lo que sientes te libera",
+      "mensaje": "No puedes cambiar una emoción que no reconoces. Sentir no te hace débil, te hace humano.",
+      "actividad": "Escribe tres emociones que hayas sentido hoy y qué las provocó.",
+      "dialogo": "Cada uno comparta una emoción frecuente en su vida y cómo suele expresarla."
     },
     {
       "dia": 3,
-      "tema": "Comunicación",
-      "titulo": "Hablar desde la calma",
-      "mensaje": "Hablar no es descargar, es construir. Las palabras dichas desde la paz sanan más que mil disculpas dichas desde la rabia.",
-      "accion": "Hoy, cuando hables de algo difícil, hacelo con tono bajo y pausado."
+      "tema": "Empatía",
+      "titulo": "Escuchar de verdad es amar",
+      "mensaje": "Escuchar sin preparar tu respuesta demuestra interés genuino. Cuando entiendes antes de responder, conectas de verdad.",
+      "actividad": "Escucha a alguien sin interrumpir ni opinar por cinco minutos.",
+      "dialogo": "Escúchense mutuamente contar algo del día sin comentar hasta el final. Luego, repitan lo que entendieron."
     },
     {
       "dia": 4,
-      "tema": "Límites",
-      "titulo": "Decir 'no' sin culpa",
-      "mensaje": "Decir 'no' a tiempo te salva del resentimiento después. Los límites cuidan la relación y tu salud mental.",
-      "accion": "Negate con respeto a algo que no querés hacer y observá cómo se siente."
+      "tema": "Límites saludables",
+      "titulo": "Decir 'no' también es cuidar",
+      "mensaje": "Poner límites no aleja a quien te ama, atrae respeto. No es rechazo, es autoconservación emocional.",
+      "actividad": "Identifica un límite que sueles pasar por miedo a decepcionar. Escríbelo con claridad.",
+      "dialogo": "Hablen sobre un límite que cada uno necesita reforzar en la relación y cómo apoyarse mutuamente."
     },
     {
       "dia": 5,
-      "tema": "Deseo y energía",
-      "titulo": "Cuidar el cuerpo para sentir deseo",
-      "mensaje": "El deseo nace en un cuerpo tranquilo. Dormir, moverse y comer bien son actos eróticos de autocuidado.",
-      "accion": "Realizá una actividad física o un masaje consciente sin exigencia."
+      "tema": "Comunicación",
+      "titulo": "Hablar desde el sentimiento, no desde el juicio",
+      "mensaje": "Decir 'me sentí herido cuando pasó esto' genera conexión; decir 'tú siempre haces esto' genera defensa.",
+      "actividad": "Practica transformar una crítica en una expresión emocional honesta.",
+      "dialogo": "Cada uno exprese algo que le dolió, usando la frase: 'Cuando ocurrió esto, me sentí...'."
     },
     {
       "dia": 6,
-      "tema": "Reflexión",
-      "titulo": "El miedo no es tu enemigo",
-      "mensaje": "El miedo solo quiere avisarte algo. Escuchalo sin dejar que te domine.",
-      "accion": "Identificá una situación reciente donde el miedo habló por vos y escribí qué podrías decirle hoy."
+      "tema": "Autovaloración",
+      "titulo": "Tu valor no depende de la aprobación",
+      "mensaje": "Cuando buscas validación constante, pierdes tu centro. Aprende a reconocerte incluso cuando nadie aplaude.",
+      "actividad": "Escribe tres cosas que valoras de ti sin compararte con nadie.",
+      "dialogo": "Díganse mutuamente algo que admiran uno del otro sin añadir críticas ni consejos."
     },
     {
       "dia": 7,
-      "tema": "Autonomía",
-      "titulo": "Ser tu propio refugio",
-      "mensaje": "Aprendé a darte lo que esperás de los demás. Nadie puede sostenerte si vos no te sostenés primero.",
-      "accion": "Regalate una hora para hacer algo que disfrutes sin depender de nadie."
+      "tema": "Culpa y perdón",
+      "titulo": "Perdonarte es avanzar",
+      "mensaje": "No puedes construir amor si sigues cargando con la culpa. Aprender de tus errores vale más que castigarte por ellos.",
+      "actividad": "Escribe una carta de perdón a ti mismo por algo que todavía te pesa.",
+      "dialogo": "Compartan un error pasado del que aprendieron y cómo se perdonaron."
     },
     {
       "dia": 8,
-      "tema": "Empatía",
-      "titulo": "Escuchar sin interrumpir",
-      "mensaje": "Escuchar de verdad es un acto de amor. La empatía abre más puertas que la defensa.",
-      "accion": "Dejá que alguien termine de hablar antes de responder. Solo escuchá."
+      "tema": "Presencia",
+      "titulo": "Estar es más importante que tener razón",
+      "mensaje": "La mayoría de los conflictos no necesitan un ganador, necesitan comprensión. A veces, estar es la solución.",
+      "actividad": "Haz algo con plena atención: come, camina o escucha, sin distracciones.",
+      "dialogo": "Recuerden una ocasión donde uno necesitaba presencia y el otro intentó resolver. ¿Cómo podrían equilibrarlo?"
     },
     {
       "dia": 9,
-      "tema": "Sanación emocional",
-      "titulo": "No te castigues por lo que hiciste desde el dolor",
-      "mensaje": "Las reacciones del pasado fueron mecanismos de defensa, no maldad. Aprendé, pero no te lastimes recordándolo.",
-      "accion": "Escribí una carta breve a tu versión pasada agradeciéndole su intento de protegerte."
+      "tema": "Confianza",
+      "titulo": "Controlar no es amar",
+      "mensaje": "El control nace del miedo, no del amor. Cuando confías, te liberas tú y permites al otro ser auténtico.",
+      "actividad": "Identifica una situación donde intentas controlar y reemplázala por una acción basada en confianza.",
+      "dialogo": "Hablen de algo que a cada uno le cuesta confiar y cómo podrían generar seguridad sin control."
     },
     {
       "dia": 10,
-      "tema": "Comunicación emocional",
-      "titulo": "Decir 'me siento' en lugar de 'vos hiciste'",
-      "mensaje": "Cambiar 'me hacés enojar' por 'me siento frustrado cuando pasa esto' cambia completamente el diálogo.",
-      "accion": "Usá una frase con 'me siento...' en vez de culpar hoy en una conversación."
+      "tema": "Deseo y conexión",
+      "titulo": "El deseo se alimenta de libertad",
+      "mensaje": "El deseo muere donde hay control y florece donde hay espacio. La admiración crece cuando ambos conservan su individualidad.",
+      "actividad": "Dedica tiempo a una actividad propia y luego comparte lo que sentiste.",
+      "dialogo": "Comenten qué aspectos del otro les resultan atractivos cuando están tranquilos y libres."
     },
     {
       "dia": 11,
-      "tema": "Autovaloración",
-      "titulo": "Reconocer tu progreso",
-      "mensaje": "Cada vez que elegís no controlar, estás creciendo. La evolución no siempre se nota, pero se siente.",
-      "accion": "Anotá tres pequeñas cosas que hiciste mejor que hace un mes."
+      "tema": "Gratitud",
+      "titulo": "Agradecer une los corazones",
+      "mensaje": "El cerebro no puede sentir gratitud y enojo al mismo tiempo. Agradecer transforma la energía emocional.",
+      "actividad": "Escribe tres cosas que agradeces hoy, por pequeñas que sean.",
+      "dialogo": "Exprésense gratitud por algo reciente, sin restar importancia con un 'pero'."
     },
     {
       "dia": 12,
       "tema": "Vulnerabilidad",
-      "titulo": "Mostrarte no te hace débil",
-      "mensaje": "Ocultarte te aleja. Mostrarte te conecta. La vulnerabilidad crea intimidad real.",
-      "accion": "Compartí algo sincero con alguien sin miedo al juicio."
+      "titulo": "Mostrarte te hace fuerte",
+      "mensaje": "Abrirte no te hace frágil, te hace auténtico. Lo que ocultas se vuelve carga; lo que compartes se vuelve puente.",
+      "actividad": "Comparte con alguien un miedo o una inseguridad sin buscar consejo.",
+      "dialogo": "Cada uno comparta algo que teme mostrar en la relación y escuchen sin interrumpir."
     },
     {
       "dia": 13,
-      "tema": "Confianza",
-      "titulo": "Confiar sin pruebas",
-      "mensaje": "La confianza no se exige ni se demuestra, se practica. Empieza creyendo que podés estar tranquilo sin verificar.",
-      "accion": "Hoy evitá revisar, preguntar o comprobar algo por ansiedad."
+      "tema": "Gestión del enojo",
+      "titulo": "El enojo bien usado también sana",
+      "mensaje": "El enojo no es el problema; el problema es no saber expresarlo. Usado con respeto, el enojo muestra tus límites.",
+      "actividad": "Cuando sientas molestia, escribe lo que pasa antes de hablarlo.",
+      "dialogo": "Conversen sobre cómo cada uno suele expresar su enojo y qué necesitaría el otro en esos momentos."
     },
     {
       "dia": 14,
-      "tema": "Agradecimiento",
-      "titulo": "Valorar lo pequeño",
-      "mensaje": "El agradecimiento reprograma tu cerebro para el bienestar. Lo que apreciás, crece.",
-      "accion": "Anotá tres cosas que hoy salieron bien, aunque sean simples."
+      "tema": "Amor propio",
+      "titulo": "Trátate como alguien que merece cuidado",
+      "mensaje": "Amar bien empieza por tratarte con respeto. No esperes del otro lo que tú no te das.",
+      "actividad": "Dedica 20 minutos a hacer algo que te relaje o te inspire.",
+      "dialogo": "Cuéntense qué acciones pequeñas los hacen sentirse cuidados y cómo podrían replicarlas en la pareja."
     },
     {
       "dia": 15,
-      "tema": "Autocuidado",
-      "titulo": "Tu cuerpo también necesita descanso emocional",
-      "mensaje": "A veces la mejor respuesta es un día tranquilo. No siempre hay que ser productivo para tener valor.",
-      "accion": "Desconectate una hora del teléfono o las redes y hacé algo sin propósito."
+      "tema": "Apego sano",
+      "titulo": "Estar juntos sin perderte",
+      "mensaje": "El amor maduro no exige fusión, pide compañía. Dos personas completas crean vínculos más estables.",
+      "actividad": "Dedica un momento del día a estar solo en calma, sin culpa.",
+      "dialogo": "Hablen sobre cómo equilibrar el tiempo juntos y el espacio individual."
     },
     {
       "dia": 16,
-      "tema": "Empoderamiento",
-      "titulo": "Elegir no reaccionar es fuerza, no debilidad",
-      "mensaje": "Responder con calma cuando esperaban un grito es una victoria interna.",
-      "accion": "Ante algo molesto, hacé una pausa de 10 segundos antes de hablar."
+      "tema": "Respeto mutuo",
+      "titulo": "Respetar las diferencias es amar de verdad",
+      "mensaje": "No necesitas pensar igual para amar. Respetar el mundo interno del otro fortalece la relación.",
+      "actividad": "Identifica una diferencia y observa qué puedes aprender de ella.",
+      "dialogo": "Cada uno mencione una diferencia entre ambos que haya aprendido a valorar."
     },
     {
       "dia": 17,
-      "tema": "Autenticidad",
-      "titulo": "No busques ser perfecto, buscá ser honesto",
-      "mensaje": "La perfección aleja. La autenticidad enamora.",
-      "accion": "Permitite mostrar una emoción real hoy, aunque no sea linda."
+      "tema": "Sinceridad",
+      "titulo": "La verdad con empatía construye confianza",
+      "mensaje": "Decir la verdad sin herir requiere práctica, pero evita resentimiento y desconfianza.",
+      "actividad": "Di algo que sueles callar por miedo, con tono suave y respetuoso.",
+      "dialogo": "Comenten cómo se sienten cuando el otro evita o posterga decir algo importante."
     },
     {
       "dia": 18,
-      "tema": "Deseo y conexión",
-      "titulo": "El deseo crece donde hay libertad",
-      "mensaje": "Controlar apaga. Dejar ser enciende.",
-      "accion": "Elogiá sin esperar nada a cambio."
+      "tema": "Compasión",
+      "titulo": "La compasión empieza por casa",
+      "mensaje": "Ser amable contigo es el primer paso para poder serlo con los demás.",
+      "actividad": "Trata tu error más reciente como tratarías el de un amigo.",
+      "dialogo": "Compartan cómo pueden apoyarse sin juzgarse cuando el otro falla."
     },
     {
       "dia": 19,
-      "tema": "Responsabilidad afectiva",
-      "titulo": "Cuidar lo que el otro siente no es cargarlo",
-      "mensaje": "Responsabilidad no es culpa, es empatía activa.",
-      "accion": "Preguntale a alguien cercano cómo se siente sin intentar solucionarlo."
+      "tema": "Afecto consciente",
+      "titulo": "El contacto físico también comunica",
+      "mensaje": "Un abrazo sincero puede decir más que un discurso. La ternura calma el sistema nervioso.",
+      "actividad": "Abrácense en silencio por 30 segundos, respirando juntos.",
+      "dialogo": "Conversen sobre qué tipo de contacto físico les hace sentir más tranquilos y queridos."
     },
     {
       "dia": 20,
-      "tema": "Presencia",
-      "titulo": "Estar es más que responder",
-      "mensaje": "A veces lo que cura es simplemente acompañar sin hablar.",
-      "accion": "Escuchá con atención a alguien que necesite contarte algo."
+      "tema": "Motivación emocional",
+      "titulo": "El cambio no requiere prisa, sino constancia",
+      "mensaje": "Los grandes progresos vienen de pequeñas acciones sostenidas.",
+      "actividad": "Haz algo hoy que tu 'yo del futuro' te agradezca, aunque sea mínimo.",
+      "dialogo": "Comenten un hábito emocional que quieran fortalecer en la pareja."
     },
     {
       "dia": 21,
-      "tema": "Gestión de enojo",
-      "titulo": "Tu enojo también necesita cuidado",
-      "mensaje": "No reprimas ni explotes. Respiralo, entendelo, soltalo.",
-      "accion": "Cuando te enojes, escribí lo que sentís antes de hablar."
+      "tema": "Seguridad emocional",
+      "titulo": "Tu calma es el mejor refugio para el otro",
+      "mensaje": "Cuando mantienes la serenidad, ayudas al otro a regularse. Ser paz es más poderoso que tener razón.",
+      "actividad": "Observa una discusión y elige conscientemente bajar el tono de tu voz.",
+      "dialogo": "Reflexionen sobre cómo reacciona cada uno frente al conflicto y qué los calma."
     },
     {
       "dia": 22,
-      "tema": "Confianza interior",
-      "titulo": "Podés equivocarte y seguir siendo digno",
-      "mensaje": "El error no anula tu valor. Lo multiplica si aprendés de él.",
-      "accion": "Perdonate un error reciente y decidí cómo lo transformarás."
+      "tema": "Autoaceptación",
+      "titulo": "No necesitas ser perfecto para merecer amor",
+      "mensaje": "El amor sano no espera la perfección; celebra el proceso.",
+      "actividad": "Mira tu reflejo y di en voz alta algo que te guste de ti.",
+      "dialogo": "Cada uno comparta algo del otro que considera imperfecto pero encantador."
     },
     {
       "dia": 23,
-      "tema": "Amor sano",
-      "titulo": "Amar no es absorber, es acompañar",
-      "mensaje": "Si el amor asfixia, no es amor. El vínculo sano respira.",
-      "accion": "Dejá espacio para vos y para el otro, aunque se vean menos hoy."
+      "tema": "Intimidad emocional",
+      "titulo": "Compartir lo invisible fortalece el vínculo",
+      "mensaje": "Hablar de lo que no se ve —temores, deseos, sueños— construye una conexión más profunda.",
+      "actividad": "Piensa en algo que nunca has dicho por vergüenza y reflexiona si podrías compartirlo.",
+      "dialogo": "Hablen sobre algo que deseen compartir más abiertamente entre ustedes."
     },
     {
       "dia": 24,
-      "tema": "Reflexión profunda",
-      "titulo": "No confundas intensidad con amor",
-      "mensaje": "El fuego que quema rápido no calienta a largo plazo.",
-      "accion": "Preguntate si tus actos vienen de la ansiedad o del deseo genuino."
+      "tema": "Esperanza y renovación",
+      "titulo": "Cada día puedes comenzar diferente",
+      "mensaje": "No estás definido por lo que hiciste ayer. El crecimiento emocional ocurre en pequeños actos de conciencia.",
+      "actividad": "Elige una cosa que hoy harás diferente para cuidar mejor tu energía.",
+      "dialogo": "Reflexionen sobre una actitud del pasado que ya no desean repetir y cómo se apoyarán para cambiarla."
     },
     {
       "dia": 25,
-      "tema": "Comunicación sana",
-      "titulo": "Pedir sin exigir",
-      "mensaje": "La diferencia entre manipular y pedir está en el tono.",
-      "accion": "Hoy pedí algo importante con amabilidad y sin expectativa."
+      "tema": "Agradecimiento en pareja",
+      "titulo": "Valorar lo cotidiano mantiene viva la conexión",
+      "mensaje": "Los grandes amores se sostienen con gestos pequeños pero constantes.",
+      "actividad": "Expresa en voz alta algo del día que te hizo sentir bien con tu pareja.",
+      "dialogo": "Compartan tres cosas que agradecen uno del otro hoy."
     },
     {
       "dia": 26,
-      "tema": "Crecimiento personal",
-      "titulo": "El cambio real no se nota cada día, pero se siente en la paz",
-      "mensaje": "La calma es el signo de evolución.",
-      "accion": "Meditá 5 minutos o simplemente observá tus pensamientos sin juzgar."
+      "tema": "Reflexión consciente",
+      "titulo": "El silencio también comunica",
+      "mensaje": "A veces el mejor diálogo es la pausa. El silencio con presencia une más que las palabras vacías.",
+      "actividad": "Tomen 5 minutos juntos en silencio, solo respirando y observando.",
+      "dialogo": "Hablen sobre cómo se sienten después de compartir ese silencio."
     },
     {
       "dia": 27,
-      "tema": "Reconexión",
-      "titulo": "Volver a vos mismo",
-      "mensaje": "Cuanto más te conozcas, menos necesitarás controlar.",
-      "accion": "Hacete una pregunta clave: ¿qué necesito realmente hoy?"
+      "tema": "Reconexión afectiva",
+      "titulo": "El amor necesita atención, no perfección",
+      "mensaje": "La rutina no mata el amor, lo hace la falta de curiosidad. Interésate de nuevo en el otro como si lo conocieras hoy.",
+      "actividad": "Pregúntale algo que nunca le hayas preguntado.",
+      "dialogo": "Hablen sobre algo nuevo que descubrieron del otro últimamente."
     },
     {
       "dia": 28,
-      "tema": "Equilibrio emocional",
-      "titulo": "Tu paz vale más que tener razón",
-      "mensaje": "A veces ceder la discusión es ganar tranquilidad.",
-      "accion": "Elegí una conversación y decidí no entrar en debate."
+      "tema": "Crecimiento conjunto",
+      "titulo": "El vínculo evoluciona si ambos lo eligen",
+      "mensaje": "Una pareja crece cuando deja de competir y comienza a colaborar.",
+      "actividad": "Piensen en una meta compartida que los motive.",
+      "dialogo": "Conversen sobre cómo pueden apoyarse para cumplir un sueño común."
     },
     {
       "dia": 29,
-      "tema": "Aceptación",
-      "titulo": "No todo lo que duele es injusto",
-      "mensaje": "Algunas cosas simplemente enseñan. El dolor es un maestro, no un castigo.",
-      "accion": "Anotá una lección reciente que te dejó una situación difícil."
+      "tema": "Cierre emocional",
+      "titulo": "Soltar no es rendirse, es confiar",
+      "mensaje": "Deja que las cosas fluyan sin forzarlas. Lo que es auténtico se mantiene sin presión.",
+      "actividad": "Practica soltar una preocupación repitiendo: 'Confío en el proceso'.",
+      "dialogo": "Comenten qué cosas desean soltar para mejorar la relación."
     },
     {
       "dia": 30,
-      "tema": "Renovación",
-      "titulo": "Cada día podés empezar distinto",
-      "mensaje": "No estás definido por tus errores, sino por tu voluntad de mejorar.",
-      "accion": "Elegí un hábito pequeño para hacer diferente desde hoy."
+      "tema": "Celebración y propósito",
+      "titulo": "Amar conscientemente es elegir cada día",
+      "mensaje": "El amor maduro no se siente, se construye con presencia, ternura y compromiso diario.",
+      "actividad": "Hagan algo simbólico juntos para celebrar este proceso: una cena, una carta, una caminata.",
+      "dialogo": "Reflexionen sobre lo que aprendieron este mes y qué desean fortalecer en el próximo ciclo."
     }
   ]
 }
