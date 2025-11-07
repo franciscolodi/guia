@@ -240,5 +240,15 @@
       "actividad": "Hagan algo simbólico juntos para celebrar este proceso: una cena, una carta, una caminata.",
       "dialogo": "Reflexionen sobre lo que aprendieron este mes y qué desean fortalecer en el próximo ciclo."
     }
+    ,
+    {
+      "dia": 31,
+      "tema": "Integración y propósito conjunto",
+      "titulo": "Cosechar lo aprendido y mirar hacia adelante",
+      "mensaje": "Cada mes ha traído desafíos, aprendizajes y momentos de crecimiento. Detenerse a reconocerlos fortalece el vínculo y refuerza la conciencia emocional. No se trata de ser perfectos, sino de avanzar juntos con intención y respeto.",
+      "actividad": "Dedica unos minutos a revisar los días anteriores y anota los tres aprendizajes personales más importantes de este mes.",
+      "dialogo": "Conversen sobre lo que cada uno sintió que mejoró en la relación durante el mes, y propongan juntos un propósito emocional para el siguiente ciclo."
+    }
+
   ]
 }
