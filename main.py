@@ -49,7 +49,9 @@ mensaje = (
     f"🎯 *{consejo['titulo']}*\n\n"
     f"{consejo['mensaje']}\n\n"
     f"🪶 *Actividad del día:*\n{consejo['actividad']}\n\n"
-    f"💞 *Diálogo en pareja:*\n{consejo['dialogo']}"
+    f"💞 *Diálogo en pareja:*\n{consejo['dialogo']}\n\n"
+    f"⚠️ *Riesgo emocional a evitar:*\n{consejo['riesgo_emocional']}\n\n"
+    f"📘 _Referencia psicológica:_ {consejo['autor_referencia']}"
 )
 
 
