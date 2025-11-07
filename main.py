@@ -39,16 +39,19 @@ dia_anual = datetime.now().timetuple().tm_yday
 indice = (dia_anual - 1) % total_dias  # Ajuste para índice 0-based
 consejo = consejos[indice]
 
+
 # =========================================================
-# 💬 CONSTRUIR MENSAJE
+# 💬 CONSTRUIR MENSAJE DIARIO (FORMATO MEJORADO)
 # =========================================================
 mensaje = (
     f"🧠 *Consejo del día* — Día {consejo['dia']}\n"
     f"_{consejo['tema']}_\n\n"
     f"🎯 *{consejo['titulo']}*\n\n"
     f"{consejo['mensaje']}\n\n"
-    f"🪶 *Acción del día:* {consejo['accion']}"
+    f"🪶 *Actividad del día:*\n{consejo['actividad']}\n\n"
+    f"💞 *Diálogo en pareja:*\n{consejo['dialogo']}"
 )
+
 
 # =========================================================
 # 🚀 ENVIAR MENSAJE A TELEGRAM
