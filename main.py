@@ -32,11 +32,11 @@ if not consejos:
     raise SystemExit("❌ ERROR: No hay datos en 'consejos.json'.")
 
 # =========================================================
-# 📅 SELECCIONAR CONSEJO DEL DÍA (CÍCLICO)
+# 📅 SELECCIONAR CONSEJO DEL DÍA SEGÚN EL DÍA DEL MES
 # =========================================================
 total_dias = len(consejos)
-dia_anual = datetime.now().timetuple().tm_yday
-indice = (dia_anual - 1) % total_dias  # Ajuste para índice 0-based
+dia_mes = datetime.now().day  # Día real del mes (1–31)
+indice = (dia_mes - 1) % total_dias  # Usa módulo por si el mes tiene menos de 31 días
 consejo = consejos[indice]
 
 
