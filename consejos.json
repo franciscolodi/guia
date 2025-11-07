@@ -3,252 +3,313 @@
     {
       "dia": 1,
       "tema": "Autocontrol emocional",
-      "titulo": "Respira antes de reaccionar",
-      "mensaje": "La calma no es pasividad, es poder. Cuando respiras antes de responder, eliges la claridad sobre el impulso.",
-      "actividad": "Haz tres respiraciones lentas antes de contestar algo que te altere.",
-      "dialogo": "Comenta con tu pareja una situación donde hayas reaccionado por impulso y cómo podrías manejarla mejor."
+      "titulo": "La pausa que transforma la reacción en conciencia",
+      "mensaje": "Cuando una emoción intensa te invade, tu sistema nervioso activa el modo defensa: lucha, huida o bloqueo. La pausa consciente interrumpe ese ciclo. No es represión, sino regulación: un acto de poder psicológico que convierte el impulso en elección. Aprender a detenerte antes de reaccionar te permite construir vínculos más seguros, donde las palabras no hieren, sino conectan.",
+      "actividad": "Durante el día, cuando sientas enojo o tensión, aplica la técnica 4-2-6: inhala en 4 segundos, retén 2, exhala 6. Observa cómo cambia tu percepción y la intensidad emocional.",
+      "dialogo": "Compartan una situación en la que alguno reaccionó de forma impulsiva. ¿Qué emoción estaba debajo de esa reacción? ¿Qué podrían hacer distinto la próxima vez?",
+      "riesgo_emocional": "Confundir control con represión emocional, generando tensión interna y desconexión afectiva.",
+      "autor_referencia": "Basado en Terapia Dialéctico-Conductual (Linehan, 1993) y Mindfulness aplicado a la autorregulación emocional."
     },
     {
       "dia": 2,
-      "tema": "Autoconocimiento",
-      "titulo": "Entender lo que sientes te libera",
-      "mensaje": "No puedes cambiar una emoción que no reconoces. Sentir no te hace débil, te hace humano.",
-      "actividad": "Escribe tres emociones que hayas sentido hoy y qué las provocó.",
-      "dialogo": "Cada uno comparta una emoción frecuente en su vida y cómo suele expresarla."
+      "tema": "Autoconciencia emocional",
+      "titulo": "Reconocer lo que sientes antes de actuar",
+      "mensaje": "No puedes cambiar lo que no reconoces. Las emociones son datos, no amenazas. Nombrarlas permite que el cerebro prefrontal module la reacción automática del sistema límbico. En lugar de negar o juzgar lo que sientes, obsérvalo con curiosidad: ¿es enojo, miedo, vergüenza, necesidad de aprobación? Nombrar da poder; negar genera caos interno.",
+      "actividad": "Haz tres pausas hoy para preguntarte: '¿Qué estoy sintiendo ahora mismo?' Escríbelo sin justificarlo ni analizarlo.",
+      "dialogo": "Comenten una emoción que hayan evitado expresar por temor a ser juzgados. ¿Cómo habría cambiado la interacción si se hubiese comunicado con calma?",
+      "riesgo_emocional": "Desconectarte de tus emociones y responder desde el automatismo o la negación.",
+      "autor_referencia": "Modelo de Conciencia Emocional de Goleman (1995) y Terapia Cognitiva de Beck (1976)."
     },
     {
       "dia": 3,
-      "tema": "Empatía",
-      "titulo": "Escuchar de verdad es amar",
-      "mensaje": "Escuchar sin preparar tu respuesta demuestra interés genuino. Cuando entiendes antes de responder, conectas de verdad.",
-      "actividad": "Escucha a alguien sin interrumpir ni opinar por cinco minutos.",
-      "dialogo": "Escúchense mutuamente contar algo del día sin comentar hasta el final. Luego, repitan lo que entendieron."
+      "tema": "Autovaloración y autoestima",
+      "titulo": "Reconocer tu propio valor sin depender de la validación externa",
+      "mensaje": "Buscar aprobación constante te deja vulnerable a la manipulación emocional. La verdadera autoestima nace del reconocimiento interno, no del aplauso ajeno. Cuando sabes quién eres, puedes amar sin miedo y poner límites sin culpa. La autovaloración no se construye en la comparación, sino en la coherencia con tus valores.",
+      "actividad": "Escribe tres cualidades personales que te ayuden a sobrellevar los desafíos. Léelas en voz alta al final del día.",
+      "dialogo": "Díganse mutuamente tres cosas que valoran del otro como persona, no como pareja. Escuchen sin responder ni justificar.",
+      "riesgo_emocional": "Buscar validación externa para sentir seguridad, generando dependencia emocional o sobrecompensación.",
+      "autor_referencia": "Teoría del Autoconcepto (Carl Rogers, 1959) y Terapia de Aceptación y Compromiso (Hayes, 2004)."
     },
     {
       "dia": 4,
-      "tema": "Límites saludables",
-      "titulo": "Decir 'no' también es cuidar",
-      "mensaje": "Poner límites no aleja a quien te ama, atrae respeto. No es rechazo, es autoconservación emocional.",
-      "actividad": "Identifica un límite que sueles pasar por miedo a decepcionar. Escríbelo con claridad.",
-      "dialogo": "Hablen sobre un límite que cada uno necesita reforzar en la relación y cómo apoyarse mutuamente."
+      "tema": "Límites personales",
+      "titulo": "Decir no también es una forma de amor propio",
+      "mensaje": "Los límites no son muros, son filtros que protegen tu energía emocional. Decir 'no' con respeto evita la acumulación de resentimiento. Un límite claro define tu espacio psicológico y enseña al otro cómo tratarte. Amar sin límites personales conduce al agotamiento y al sacrificio emocional.",
+      "actividad": "Reflexiona sobre una situación reciente donde te costó decir 'no'. Escribe qué temías perder y qué habrías ganado al mantener tu límite.",
+      "dialogo": "Hablen sobre un límite que cada uno necesita que se respete en la relación. Busquen una forma de expresarlo sin reproches.",
+      "riesgo_emocional": "Evitar el conflicto complaciendo al otro, lo que genera desgaste emocional y pérdida de identidad.",
+      "autor_referencia": "Psicología de los Límites de Cloud & Townsend (1992) y Terapia Sistémica Familiar."
     },
     {
       "dia": 5,
-      "tema": "Comunicación",
-      "titulo": "Hablar desde el sentimiento, no desde el juicio",
-      "mensaje": "Decir 'me sentí herido cuando pasó esto' genera conexión; decir 'tú siempre haces esto' genera defensa.",
-      "actividad": "Practica transformar una crítica en una expresión emocional honesta.",
-      "dialogo": "Cada uno exprese algo que le dolió, usando la frase: 'Cuando ocurrió esto, me sentí...'."
+      "tema": "Autocompasión",
+      "titulo": "Trátate con la misma empatía que ofreces a los demás",
+      "mensaje": "La autocrítica constante no mejora la conducta, solo debilita la autoestima. La autocompasión, en cambio, activa circuitos cerebrales asociados al consuelo y la resiliencia. Tratarte con amabilidad no es justificar tus errores, es acompañarte en el proceso de aprender de ellos. La relación contigo mismo marca el tono de todas las demás.",
+      "actividad": "Cuando te critiques mentalmente, reformula la frase en tono compasivo. Por ejemplo: cambia 'soy un desastre' por 'estoy aprendiendo y puedo hacerlo mejor'.",
+      "dialogo": "Compartan una situación en la que se sintieron demasiado duros consigo mismos. ¿Cómo podrían aplicarse más comprensión mutua?",
+      "riesgo_emocional": "Confundir autocompasión con debilidad, perpetuando el autoabandono y la culpa crónica.",
+      "autor_referencia": "Kristin Neff, Teoría de la Autocompasión (2003) y Mindful Self-Compassion Training."
     },
     {
       "dia": 6,
-      "tema": "Autovaloración",
-      "titulo": "Tu valor no depende de la aprobación",
-      "mensaje": "Cuando buscas validación constante, pierdes tu centro. Aprende a reconocerte incluso cuando nadie aplaude.",
-      "actividad": "Escribe tres cosas que valoras de ti sin compararte con nadie.",
-      "dialogo": "Díganse mutuamente algo que admiran uno del otro sin añadir críticas ni consejos."
+      "tema": "Gestión del enojo",
+      "titulo": "El enojo bien canalizado es una señal de límites sanos",
+      "mensaje": "El enojo no es un enemigo: es un sistema de alarma emocional. Su función es proteger tus valores y tu integridad. El problema no es sentir enojo, sino expresarlo sin conciencia. Convertir el enojo en claridad evita que se transforme en resentimiento. Aprender a comunicarlo con serenidad fortalece el respeto mutuo.",
+      "actividad": "Identifica una situación que te haya molestado. Antes de hablar, escribe qué valor o necesidad estaba siendo vulnerado.",
+      "dialogo": "Conversen sobre cómo cada uno expresa el enojo. ¿Qué ayuda o dificulta recibir ese mensaje sin sentirse atacado?",
+      "riesgo_emocional": "Reprimir el enojo hasta explotar o expresarlo de modo agresivo, dañando la confianza mutua.",
+      "autor_referencia": "Harriet Lerner, 'The Dance of Anger' (1985) y Terapia Emocional Focalizada de Greenberg (2001)."
     },
     {
       "dia": 7,
-      "tema": "Culpa y perdón",
-      "titulo": "Perdonarte es avanzar",
-      "mensaje": "No puedes construir amor si sigues cargando con la culpa. Aprender de tus errores vale más que castigarte por ellos.",
-      "actividad": "Escribe una carta de perdón a ti mismo por algo que todavía te pesa.",
-      "dialogo": "Compartan un error pasado del que aprendieron y cómo se perdonaron."
+      "tema": "Responsabilidad emocional",
+      "titulo": "Tus emociones son tuyas, no del otro",
+      "mensaje": "Responsabilizar al otro por cómo te sientes genera dependencia emocional y conflicto. La madurez afectiva implica reconocer que tus emociones surgen de tu interpretación, no del acto ajeno. Esto no justifica el daño, pero te devuelve el poder personal para transformarte. Amar sin culpar libera.",
+      "actividad": "Cada vez que sientas malestar por algo que tu pareja hace, pregúntate: '¿Qué parte de esto depende de mí cambiar o comunicar diferente?'",
+      "dialogo": "Hablen de un conflicto donde alguno culpó al otro por su estado emocional. ¿Qué parte era reacción personal y qué parte requería ajuste conjunto?",
+      "riesgo_emocional": "Culpar al otro de tus emociones, perpetuando la victimización y el control relacional.",
+      "autor_referencia": "Terapia Racional Emotiva de Albert Ellis (1955) y Psicología de la Responsabilidad Afectiva Contemporánea."
     },
     {
       "dia": 8,
-      "tema": "Presencia",
-      "titulo": "Estar es más importante que tener razón",
-      "mensaje": "La mayoría de los conflictos no necesitan un ganador, necesitan comprensión. A veces, estar es la solución.",
-      "actividad": "Haz algo con plena atención: come, camina o escucha, sin distracciones.",
-      "dialogo": "Recuerden una ocasión donde uno necesitaba presencia y el otro intentó resolver. ¿Cómo podrían equilibrarlo?"
+      "tema": "Autoobservación y mente presente",
+      "titulo": "El poder está en notar sin juzgar",
+      "mensaje": "Observar tus pensamientos sin reaccionar a ellos es el núcleo de la atención plena. Cuanto más practiques la observación neutral, más libre te vuelves de la mente reactiva. Estar presente no significa controlar todo, sino habitar el momento sin anticipar el daño. La conciencia disuelve la ansiedad.",
+      "actividad": "Durante 10 minutos, practica la observación de tus pensamientos como si fueran nubes que pasan. No los sigas, solo míralos.",
+      "dialogo": "Hablen sobre situaciones donde su mente se adelanta al conflicto. ¿Qué sienten cuando logran detenerse y simplemente observar?",
+      "riesgo_emocional": "Identificarte con tus pensamientos automáticos, alimentando la ansiedad o el miedo a perder control.",
+      "autor_referencia": "Jon Kabat-Zinn, Mindfulness-Based Stress Reduction (1990)."
     },
     {
       "dia": 9,
-      "tema": "Confianza",
-      "titulo": "Controlar no es amar",
-      "mensaje": "El control nace del miedo, no del amor. Cuando confías, te liberas tú y permites al otro ser auténtico.",
-      "actividad": "Identifica una situación donde intentas controlar y reemplázala por una acción basada en confianza.",
-      "dialogo": "Hablen de algo que a cada uno le cuesta confiar y cómo podrían generar seguridad sin control."
+      "tema": "Perdón interior",
+      "titulo": "Soltar la culpa no borra el pasado, lo integra",
+      "mensaje": "El perdón interior es un acto de madurez, no de olvido. Implica reconocer la responsabilidad sin condenarse. Aferrarse a la culpa mantiene vivo el dolor; transformarla en aprendizaje libera energía para amar mejor. No hay crecimiento sin reconciliación con la propia historia.",
+      "actividad": "Escribe una carta simbólica perdonándote por algo que aún te pesa. No busques justificarte: busca comprenderte.",
+      "dialogo": "Compartan una situación del pasado que haya generado culpa. ¿Qué enseñanza dejó y cómo podría resignificarse?",
+      "riesgo_emocional": "Confundir perdón con negación o castigo perpetuo, bloqueando la evolución emocional.",
+      "autor_referencia": "Terapia de Aceptación y Compromiso (Hayes, 2004) y Viktor Frankl, 'El hombre en busca de sentido' (1946)."
     },
     {
       "dia": 10,
-      "tema": "Deseo y conexión",
-      "titulo": "El deseo se alimenta de libertad",
-      "mensaje": "El deseo muere donde hay control y florece donde hay espacio. La admiración crece cuando ambos conservan su individualidad.",
-      "actividad": "Dedica tiempo a una actividad propia y luego comparte lo que sentiste.",
-      "dialogo": "Comenten qué aspectos del otro les resultan atractivos cuando están tranquilos y libres."
+      "tema": "Propósito personal y sentido emocional",
+      "titulo": "Encontrar dirección es sanar la dispersión interna",
+      "mensaje": "Vivir sin propósito genera ansiedad existencial. El sentido no se descubre, se construye a través de la coherencia entre valores, emociones y acciones. Cuando conectas con un propósito, cada conflicto se convierte en oportunidad de evolución. El amor, entonces, deja de ser necesidad y se vuelve elección.",
+      "actividad": "Reflexiona y escribe una frase que resuma qué tipo de persona quieres ser en tu relación y en tu vida.",
+      "dialogo": "Hablen sobre cómo cada uno define el propósito de su relación y qué actitudes diarias lo sostienen.",
+      "riesgo_emocional": "Vivir en piloto automático, reaccionando a las circunstancias sin sentido de dirección emocional.",
+      "autor_referencia": "Viktor Frankl, Logoterapia Existencial (1959)."
     },
-    {
+      {
       "dia": 11,
-      "tema": "Gratitud",
-      "titulo": "Agradecer une los corazones",
-      "mensaje": "El cerebro no puede sentir gratitud y enojo al mismo tiempo. Agradecer transforma la energía emocional.",
-      "actividad": "Escribe tres cosas que agradeces hoy, por pequeñas que sean.",
-      "dialogo": "Exprésense gratitud por algo reciente, sin restar importancia con un 'pero'."
+      "tema": "Escucha empática",
+      "titulo": "Comprender antes de responder",
+      "mensaje": "La mayoría de los conflictos no se deben a falta de amor, sino a exceso de interpretación. Escuchar empáticamente implica suspender el juicio y enfocar la atención en comprender la necesidad que hay detrás de las palabras. Cuando el otro se siente entendido, la tensión baja y la conexión se restablece.",
+      "actividad": "Durante una conversación cotidiana, escucha sin interrumpir durante al menos tres minutos. Luego, reformula lo que entendiste con tus propias palabras antes de dar tu opinión.",
+      "dialogo": "Comenten cómo se sienten cuando son escuchados sin ser interrumpidos. ¿Qué cambia en la conexión emocional?",
+      "riesgo_emocional": "Responder desde la defensa o la corrección, en lugar de ofrecer comprensión.",
+      "autor_referencia": "Marshall Rosenberg, Comunicación No Violenta (2003)."
     },
     {
       "dia": 12,
-      "tema": "Vulnerabilidad",
-      "titulo": "Mostrarte te hace fuerte",
-      "mensaje": "Abrirte no te hace frágil, te hace auténtico. Lo que ocultas se vuelve carga; lo que compartes se vuelve puente.",
-      "actividad": "Comparte con alguien un miedo o una inseguridad sin buscar consejo.",
-      "dialogo": "Cada uno comparta algo que teme mostrar en la relación y escuchen sin interrumpir."
+      "tema": "Confianza mutua",
+      "titulo": "Construir seguridad desde la coherencia",
+      "mensaje": "La confianza no se exige, se cultiva con consistencia y transparencia. Surge cuando las palabras coinciden con los actos. La desconfianza constante erosiona el vínculo, y el control disfrazado de amor lo destruye. La confianza madura se basa en libertad responsable, no en vigilancia emocional.",
+      "actividad": "Revisa una situación donde pediste confianza pero no ofreciste transparencia. Reflexiona sobre cómo podrías equilibrarlo.",
+      "dialogo": "Conversen sobre qué acciones concretas los hacen sentir seguros o inseguros dentro de la relación.",
+      "riesgo_emocional": "Buscar control bajo la excusa del cuidado, generando una relación de vigilancia y miedo.",
+      "autor_referencia": "John Gottman, 'The Science of Trust' (2011)."
     },
     {
       "dia": 13,
-      "tema": "Gestión del enojo",
-      "titulo": "El enojo bien usado también sana",
-      "mensaje": "El enojo no es el problema; el problema es no saber expresarlo. Usado con respeto, el enojo muestra tus límites.",
-      "actividad": "Cuando sientas molestia, escribe lo que pasa antes de hablarlo.",
-      "dialogo": "Conversen sobre cómo cada uno suele expresar su enojo y qué necesitaría el otro en esos momentos."
+      "tema": "Validación emocional",
+      "titulo": "Reconocer el sentir del otro, aunque no lo compartas",
+      "mensaje": "Validar no es estar de acuerdo, es reconocer la emoción del otro como legítima. Decir 'entiendo que te sientas así' calma el sistema emocional más que cualquier argumento. La invalidación repetida genera soledad dentro de la relación. Validar es el antídoto contra el desprecio.",
+      "actividad": "Cuando tu pareja exprese una emoción, evita explicar o defenderte. Solo responde: 'Puedo entender por qué te sentiste así'.",
+      "dialogo": "Recuerden una vez en la que se sintieron comprendidos sin que el otro resolviera nada. ¿Qué impacto tuvo?",
+      "riesgo_emocional": "Minimizar o ridiculizar la emoción del otro, generando desconexión emocional y retraimiento.",
+      "autor_referencia": "John Gottman, 'The Seven Principles for Making Marriage Work' (1999)."
     },
     {
       "dia": 14,
-      "tema": "Amor propio",
-      "titulo": "Trátate como alguien que merece cuidado",
-      "mensaje": "Amar bien empieza por tratarte con respeto. No esperes del otro lo que tú no te das.",
-      "actividad": "Dedica 20 minutos a hacer algo que te relaje o te inspire.",
-      "dialogo": "Cuéntense qué acciones pequeñas los hacen sentirse cuidados y cómo podrían replicarlas en la pareja."
+      "tema": "Comunicación no defensiva",
+      "titulo": "Responder sin atacar es una forma de cuidado mutuo",
+      "mensaje": "Las discusiones no destruyen la relación; la defensividad sí. Cuando cada palabra busca justificar, nadie escucha. Responder desde la calma y no desde la herida crea seguridad emocional. Aprender a tolerar el malestar momentáneo evita heridas prolongadas.",
+      "actividad": "En tu próxima conversación difícil, enfócate en escuchar el mensaje, no el tono. Luego responde en primera persona: 'Yo siento...', 'Yo necesito...'.",
+      "dialogo": "Hablen sobre cómo reacciona cada uno cuando se siente cuestionado. ¿Qué tipo de respuesta reduce la tensión?",
+      "riesgo_emocional": "Responder con sarcasmo, evasión o contraataque, perpetuando ciclos de crítica y defensa.",
+      "autor_referencia": "Terapia Cognitiva Conductual y Técnicas de Regulación del Conflicto (Gottman Institute)."
     },
     {
       "dia": 15,
-      "tema": "Apego sano",
-      "titulo": "Estar juntos sin perderte",
-      "mensaje": "El amor maduro no exige fusión, pide compañía. Dos personas completas crean vínculos más estables.",
-      "actividad": "Dedica un momento del día a estar solo en calma, sin culpa.",
-      "dialogo": "Hablen sobre cómo equilibrar el tiempo juntos y el espacio individual."
+      "tema": "Límites relacionales",
+      "titulo": "Amar no significa acceder a todo",
+      "mensaje": "El amor sano incluye respeto por el espacio emocional del otro. Exigir disponibilidad constante no es amor, es miedo al abandono. Los límites protegen la identidad individual y evitan la fusión emocional. Dos personas enteras se encuentran, no se absorben.",
+      "actividad": "Reflexiona sobre un momento en el que sentiste invasión o dependencia. Identifica qué límite habría sido necesario expresar.",
+      "dialogo": "Conversen sobre qué tipo de espacio o tiempo personal cada uno necesita para sentirse equilibrado.",
+      "riesgo_emocional": "Confundir cercanía con fusión emocional, perdiendo autonomía y generando asfixia relacional.",
+      "autor_referencia": "Terapia de Pareja Basada en Límites de Pia Mellody (1992)."
     },
     {
       "dia": 16,
-      "tema": "Respeto mutuo",
-      "titulo": "Respetar las diferencias es amar de verdad",
-      "mensaje": "No necesitas pensar igual para amar. Respetar el mundo interno del otro fortalece la relación.",
-      "actividad": "Identifica una diferencia y observa qué puedes aprender de ella.",
-      "dialogo": "Cada uno mencione una diferencia entre ambos que haya aprendido a valorar."
+      "tema": "Reparación del daño emocional",
+      "titulo": "Decir 'lo siento' no borra, pero sana",
+      "mensaje": "Toda relación se fractura en algún momento. La diferencia entre ruptura y fortalecimiento está en la capacidad de reparar. Un perdón auténtico implica empatía, responsabilidad y acción correctiva. No basta con disculparse: hay que demostrar cambio. La reparación es la medicina del vínculo.",
+      "actividad": "Piensa en una situación donde heriste al otro, aunque fuera sin intención. Reconócelo y valida su emoción sin justificarte.",
+      "dialogo": "Hablen sobre qué gestos o palabras del otro facilitan el perdón. ¿Qué tipo de disculpa sienten más sincera?",
+      "riesgo_emocional": "Negar responsabilidad o minimizar el impacto del daño, impidiendo el proceso de sanación relacional.",
+      "autor_referencia": "Sue Johnson, Terapia Emocional Focalizada (EFT, 2001)."
     },
     {
       "dia": 17,
-      "tema": "Sinceridad",
-      "titulo": "La verdad con empatía construye confianza",
-      "mensaje": "Decir la verdad sin herir requiere práctica, pero evita resentimiento y desconfianza.",
-      "actividad": "Di algo que sueles callar por miedo, con tono suave y respetuoso.",
-      "dialogo": "Comenten cómo se sienten cuando el otro evita o posterga decir algo importante."
+      "tema": "Empatía recíproca",
+      "titulo": "Sentir con el otro, no por el otro",
+      "mensaje": "La empatía auténtica no busca salvar al otro, sino comprenderlo. Sufrir junto al otro sin herramientas genera agotamiento emocional; acompañar con compasión y respeto genera unión. La empatía madura equilibra sensibilidad y límites personales.",
+      "actividad": "Cuando tu pareja exprese un malestar, evita ofrecer soluciones. Solo pregunta: '¿Quieres que te escuche o que te ayude a resolverlo?'.",
+      "dialogo": "Conversen sobre qué tipo de apoyo necesita cada uno en momentos difíciles: presencia, consejo o silencio compartido.",
+      "riesgo_emocional": "Confundir empatía con sobreinvolucramiento, generando dependencia emocional o cansancio afectivo.",
+      "autor_referencia": "Carl Rogers, Psicoterapia Centrada en la Persona (1951)."
     },
     {
       "dia": 18,
-      "tema": "Compasión",
-      "titulo": "La compasión empieza por casa",
-      "mensaje": "Ser amable contigo es el primer paso para poder serlo con los demás.",
-      "actividad": "Trata tu error más reciente como tratarías el de un amigo.",
-      "dialogo": "Compartan cómo pueden apoyarse sin juzgarse cuando el otro falla."
+      "tema": "Transparencia emocional",
+      "titulo": "Mostrarte sin miedo es el inicio de la intimidad",
+      "mensaje": "La vulnerabilidad es el lenguaje más íntimo del amor. Cuando compartes tus miedos sin temor al juicio, el vínculo se profundiza. Ocultar lo que sientes para evitar conflicto debilita la conexión. La transparencia emocional requiere coraje: mostrar lo que uno realmente es.",
+      "actividad": "Comparte con tu pareja algo que normalmente ocultas por temor al juicio. Hazlo desde la calma, no desde la culpa.",
+      "dialogo": "Pregúntense: ¿qué parte de mí me cuesta mostrarte y por qué? Escuchen sin interrumpir ni opinar.",
+      "riesgo_emocional": "Reprimir la vulnerabilidad para mantener control, perdiendo autenticidad y conexión real.",
+      "autor_referencia": "Brené Brown, 'The Power of Vulnerability' (2010)."
     },
     {
       "dia": 19,
-      "tema": "Afecto consciente",
-      "titulo": "El contacto físico también comunica",
-      "mensaje": "Un abrazo sincero puede decir más que un discurso. La ternura calma el sistema nervioso.",
-      "actividad": "Abrácense en silencio por 30 segundos, respirando juntos.",
-      "dialogo": "Conversen sobre qué tipo de contacto físico les hace sentir más tranquilos y queridos."
+      "tema": "Gestión del deseo y espacio afectivo",
+      "titulo": "El deseo crece donde hay libertad",
+      "mensaje": "El deseo no se mantiene con obligación, sino con curiosidad y respeto. Asfixiar al otro con control mata la atracción. La distancia emocional moderada reaviva el interés, siempre que haya seguridad y confianza. La conexión sexual nace de la admiración y la libertad de ser vistos tal como somos.",
+      "actividad": "Dedica un momento hoy a hacer algo que te haga sentir atractivo o vital, sin esperar aprobación. El deseo empieza por el propio bienestar.",
+      "dialogo": "Hablen sobre qué los hace sentirse deseados y cómo pueden alimentar ese espacio sin presión.",
+      "riesgo_emocional": "Confundir deseo con validación externa o usar la intimidad como herramienta de control.",
+      "autor_referencia": "Esther Perel, 'Mating in Captivity' (2006)."
     },
     {
       "dia": 20,
-      "tema": "Motivación emocional",
-      "titulo": "El cambio no requiere prisa, sino constancia",
-      "mensaje": "Los grandes progresos vienen de pequeñas acciones sostenidas.",
-      "actividad": "Haz algo hoy que tu 'yo del futuro' te agradezca, aunque sea mínimo.",
-      "dialogo": "Comenten un hábito emocional que quieran fortalecer en la pareja."
+      "tema": "Reciprocidad emocional",
+      "titulo": "Dar y recibir con equilibrio",
+      "mensaje": "El amor saludable se basa en la reciprocidad, no en la deuda. Dar sin esperar recompensa fortalece la empatía, pero dar sin medida destruye el equilibrio. Una relación madura se construye cuando ambos reconocen y sostienen el esfuerzo mutuo. El amor deja de ser carga y se convierte en intercambio vital.",
+      "actividad": "Identifica tres formas en que tu pareja te demuestra cuidado, aunque sean pequeñas. Agradécelas conscientemente.",
+      "dialogo": "Comenten si sienten equilibrio entre lo que dan y reciben. ¿Qué gesto del otro los hace sentirse vistos y valorados?",
+      "riesgo_emocional": "Dar en exceso buscando aprobación, generando desequilibrio afectivo o resentimiento acumulado.",
+      "autor_referencia": "Terapia Sistémica Relacional y Psicología del Intercambio Emocional (Gottman, 2011)."
     },
-    {
+     {
       "dia": 21,
-      "tema": "Seguridad emocional",
-      "titulo": "Tu calma es el mejor refugio para el otro",
-      "mensaje": "Cuando mantienes la serenidad, ayudas al otro a regularse. Ser paz es más poderoso que tener razón.",
-      "actividad": "Observa una discusión y elige conscientemente bajar el tono de tu voz.",
-      "dialogo": "Reflexionen sobre cómo reacciona cada uno frente al conflicto y qué los calma."
+      "tema": "Seguridad emocional en pareja",
+      "titulo": "Ser refugio, no campo de batalla",
+      "mensaje": "Una relación sana es un espacio donde ambos pueden relajarse, no donde deben defenderse. La seguridad emocional surge cuando cada persona se siente libre de expresar sin miedo a ser castigada o ridiculizada. Convertirse en refugio mutuo exige coherencia, empatía y presencia: es el arte de sostener, no de controlar.",
+      "actividad": "Durante una conversación importante, observa si tu tono transmite calma o tensión. Respira y baja la voz para invitar a la seguridad.",
+      "dialogo": "Compartan una situación reciente en la que se sintieron seguros o inseguros en el vínculo. ¿Qué elementos ayudaron o afectaron esa sensación?",
+      "riesgo_emocional": "Convertir el vínculo en un espacio de juicio o amenaza emocional, generando miedo a la expresión genuina.",
+      "autor_referencia": "Sue Johnson, Terapia Emocional Focalizada (EFT, 2001)."
     },
     {
       "dia": 22,
-      "tema": "Autoaceptación",
-      "titulo": "No necesitas ser perfecto para merecer amor",
-      "mensaje": "El amor sano no espera la perfección; celebra el proceso.",
-      "actividad": "Mira tu reflejo y di en voz alta algo que te guste de ti.",
-      "dialogo": "Cada uno comparta algo del otro que considera imperfecto pero encantador."
+      "tema": "Respeto por la diferencia",
+      "titulo": "Amar sin exigir semejanza",
+      "mensaje": "Las diferencias no amenazan el vínculo; lo enriquecen. Pretender que el otro piense o sienta igual que tú es infantilizar la relación. Aceptar las diferencias con curiosidad y sin juicio es la base del respeto. Cuando se escucha sin querer convencer, nace la verdadera intimidad.",
+      "actividad": "Elige una opinión de tu pareja con la que no estés de acuerdo y practica escuchar sin refutarla, solo para comprenderla.",
+      "dialogo": "Conversen sobre una diferencia importante que han aprendido a manejar. ¿Qué los ayudó a respetarla?",
+      "riesgo_emocional": "Buscar uniformidad afectiva, anulando la identidad del otro para evitar ansiedad o conflicto.",
+      "autor_referencia": "Harville Hendrix, 'Getting the Love You Want' (1988)."
     },
     {
       "dia": 23,
-      "tema": "Intimidad emocional",
-      "titulo": "Compartir lo invisible fortalece el vínculo",
-      "mensaje": "Hablar de lo que no se ve —temores, deseos, sueños— construye una conexión más profunda.",
-      "actividad": "Piensa en algo que nunca has dicho por vergüenza y reflexiona si podrías compartirlo.",
-      "dialogo": "Hablen sobre algo que deseen compartir más abiertamente entre ustedes."
+      "tema": "Cooperación y alianza emocional",
+      "titulo": "Del tú y yo al nosotros",
+      "mensaje": "Las parejas maduras actúan como un equipo. La cooperación no significa ausencia de diferencias, sino capacidad de integrar perspectivas. Cuando los conflictos se enfrentan con actitud de alianza, el vínculo se vuelve resiliente. Preguntarte '¿cómo ganamos ambos?' es más sano que buscar tener razón.",
+      "actividad": "Elijan una decisión pendiente y tomenla juntos usando la fórmula: escuchar – integrar – decidir – cuidar.",
+      "dialogo": "Hablen sobre un tema en el que suelen chocar y propongan una forma cooperativa de resolverlo.",
+      "riesgo_emocional": "Competir por el poder o el reconocimiento, debilitando la sensación de equipo.",
+      "autor_referencia": "John Gottman, 'The Relationship Cure' (2001)."
     },
     {
       "dia": 24,
-      "tema": "Esperanza y renovación",
-      "titulo": "Cada día puedes comenzar diferente",
-      "mensaje": "No estás definido por lo que hiciste ayer. El crecimiento emocional ocurre en pequeños actos de conciencia.",
-      "actividad": "Elige una cosa que hoy harás diferente para cuidar mejor tu energía.",
-      "dialogo": "Reflexionen sobre una actitud del pasado que ya no desean repetir y cómo se apoyarán para cambiarla."
+      "tema": "Intimidad y ternura",
+      "titulo": "El contacto emocional alimenta el deseo físico",
+      "mensaje": "La intimidad profunda requiere vulnerabilidad compartida. El deseo se apaga no por la rutina, sino por la desconexión emocional. Tocar con ternura, mirar con atención, escuchar sin distracción: cada gesto es una forma de deseo consciente. La ternura es el puente entre cuerpo y alma.",
+      "actividad": "Durante el día, muestra afecto físico o verbal sin buscar reciprocidad inmediata: un toque, una mirada, una palabra suave.",
+      "dialogo": "Conversen sobre qué tipo de contacto o lenguaje afectivo los hace sentirse más amados.",
+      "riesgo_emocional": "Reducir la intimidad al plano sexual o usar el afecto como moneda de intercambio.",
+      "autor_referencia": "Esther Perel, 'The State of Affairs' (2017)."
     },
     {
       "dia": 25,
-      "tema": "Agradecimiento en pareja",
-      "titulo": "Valorar lo cotidiano mantiene viva la conexión",
-      "mensaje": "Los grandes amores se sostienen con gestos pequeños pero constantes.",
-      "actividad": "Expresa en voz alta algo del día que te hizo sentir bien con tu pareja.",
-      "dialogo": "Compartan tres cosas que agradecen uno del otro hoy."
+      "tema": "Agradecimiento y reconocimiento",
+      "titulo": "Ver lo bueno fortalece el vínculo",
+      "mensaje": "La atención selectiva es poderosa: si buscas errores, los hallarás; si eliges ver gestos de amor, también. Agradecer refuerza los circuitos neuronales del bienestar y disminuye la hostilidad. El reconocimiento diario es la vitamina silenciosa del amor duradero.",
+      "actividad": "Agradece hoy tres gestos de tu pareja, por pequeños que sean, y dilo en voz alta.",
+      "dialogo": "Compartan algo que el otro hizo recientemente que los hizo sentirse apreciados.",
+      "riesgo_emocional": "Normalizar lo positivo y enfocarse solo en las fallas, debilitando el aprecio mutuo.",
+      "autor_referencia": "John Gottman, 'Positive Sentiment Override' Model (1999)."
     },
     {
       "dia": 26,
-      "tema": "Reflexión consciente",
-      "titulo": "El silencio también comunica",
-      "mensaje": "A veces el mejor diálogo es la pausa. El silencio con presencia une más que las palabras vacías.",
-      "actividad": "Tomen 5 minutos juntos en silencio, solo respirando y observando.",
-      "dialogo": "Hablen sobre cómo se sienten después de compartir ese silencio."
+      "tema": "Tiempo de calidad",
+      "titulo": "La presencia vale más que la cantidad",
+      "mensaje": "El amor no se mide en horas compartidas, sino en la calidad de la atención. Estar juntos físicamente sin conexión emocional alimenta la soledad. El tiempo de calidad requiere atención plena: mirar, escuchar y disfrutar sin distracciones. La pareja necesita momentos exclusivos para recargarse afectivamente.",
+      "actividad": "Programen 30 minutos sin pantallas ni tareas. Solo conversen o compartan algo placentero.",
+      "dialogo": "Hablen sobre qué actividades fortalecen más su conexión y cómo pueden incorporarlas con regularidad.",
+      "riesgo_emocional": "Confundir convivencia con conexión, dejando que la rutina sustituya la presencia emocional.",
+      "autor_referencia": "Gary Chapman, 'The Five Love Languages' (1992)."
     },
     {
       "dia": 27,
-      "tema": "Reconexión afectiva",
-      "titulo": "El amor necesita atención, no perfección",
-      "mensaje": "La rutina no mata el amor, lo hace la falta de curiosidad. Interésate de nuevo en el otro como si lo conocieras hoy.",
-      "actividad": "Pregúntale algo que nunca le hayas preguntado.",
-      "dialogo": "Hablen sobre algo nuevo que descubrieron del otro últimamente."
+      "tema": "Proyecto compartido",
+      "titulo": "El amor crece cuando tiene propósito",
+      "mensaje": "Las parejas más estables comparten una visión de futuro. No se trata solo de metas materiales, sino de un sentido conjunto: aprender, apoyar, trascender. Tener un proyecto común fortalece la cooperación y da dirección al vínculo. El amor es energía en movimiento cuando apunta hacia un propósito.",
+      "actividad": "Definan un propósito de pareja para los próximos meses: algo que los motive y los una en acción.",
+      "dialogo": "Conversen sobre cómo pueden equilibrar los proyectos individuales con los compartidos.",
+      "riesgo_emocional": "Vivir la relación como un fin en sí mismo, sin dirección ni metas compartidas.",
+      "autor_referencia": "Viktor Frankl, Logoterapia Existencial aplicada a vínculos (1959)."
     },
     {
       "dia": 28,
-      "tema": "Crecimiento conjunto",
-      "titulo": "El vínculo evoluciona si ambos lo eligen",
-      "mensaje": "Una pareja crece cuando deja de competir y comienza a colaborar.",
-      "actividad": "Piensen en una meta compartida que los motive.",
-      "dialogo": "Conversen sobre cómo pueden apoyarse para cumplir un sueño común."
+      "tema": "Flexibilidad emocional",
+      "titulo": "Cambiar juntos sin perder la esencia",
+      "mensaje": "Toda relación evoluciona. Resistirse al cambio genera rigidez y frustración. La flexibilidad emocional consiste en adaptarse sin renunciar a los valores esenciales. Aceptar las transiciones —mudanzas, etapas vitales, desafíos— fortalece la resiliencia como pareja. Amar es actualizarse juntos.",
+      "actividad": "Elijan un cambio reciente y evalúen qué han aprendido y qué necesitan ajustar emocionalmente.",
+      "dialogo": "Reflexionen sobre cómo se adaptan cada uno ante las transformaciones y cómo pueden acompañarse mejor.",
+      "riesgo_emocional": "Aferrarse al pasado o exigir que todo siga igual, bloqueando el crecimiento relacional.",
+      "autor_referencia": "Terapia de Pareja Sistémica y Teoría del Cambio Adaptativo (Haley, 1973)."
     },
     {
       "dia": 29,
-      "tema": "Cierre emocional",
-      "titulo": "Soltar no es rendirse, es confiar",
-      "mensaje": "Deja que las cosas fluyan sin forzarlas. Lo que es auténtico se mantiene sin presión.",
-      "actividad": "Practica soltar una preocupación repitiendo: 'Confío en el proceso'.",
-      "dialogo": "Comenten qué cosas desean soltar para mejorar la relación."
+      "tema": "Perdón y cierre de ciclos",
+      "titulo": "Soltar lo pendiente para seguir amando",
+      "mensaje": "Guardar rencores convierte el pasado en un invitado constante. El perdón no borra, resignifica. Supone aceptar que el otro también es imperfecto y que el vínculo vale más que la herida. Liberar la carga emocional del pasado permite mirar el futuro con serenidad.",
+      "actividad": "Identifica una situación que todavía te genera malestar. Escríbela y termina con la frase: 'Elijo soltar para seguir avanzando'.",
+      "dialogo": "Hablen sobre una herida antigua que sienten lista para cerrar. ¿Qué acto simbólico podría ayudar a sellar ese proceso?",
+      "riesgo_emocional": "Aferrarse a viejas heridas, usando el pasado como argumento de poder o culpa.",
+      "autor_referencia": "Desmond Tutu, 'The Book of Forgiving' (2014)."
     },
     {
       "dia": 30,
-      "tema": "Celebración y propósito",
-      "titulo": "Amar conscientemente es elegir cada día",
-      "mensaje": "El amor maduro no se siente, se construye con presencia, ternura y compromiso diario.",
-      "actividad": "Hagan algo simbólico juntos para celebrar este proceso: una cena, una carta, una caminata.",
-      "dialogo": "Reflexionen sobre lo que aprendieron este mes y qué desean fortalecer en el próximo ciclo."
-    }
-    ,
+      "tema": "Renovación del compromiso",
+      "titulo": "Elegirse de nuevo cada día",
+      "mensaje": "El amor no se mantiene solo con recuerdos, sino con decisiones diarias. Comprometerse no es prometer eternidad, sino renovar la elección de construir juntos. Recordar por qué eliges a tu pareja hoy fortalece el vínculo más que cualquier declaración pasada.",
+      "actividad": "Díganse mutuamente tres razones por las que se eligen hoy. Háganlo mirándose a los ojos.",
+      "dialogo": "Conversen sobre cómo pueden renovar su compromiso emocional de manera consciente y práctica.",
+      "riesgo_emocional": "Dar la relación por sentada, dejando que el amor se diluya en la inercia.",
+      "autor_referencia": "Terapia Imago y Compromiso Consciente (Hendrix & Hunt, 2019)."
+    },
     {
       "dia": 31,
-      "tema": "Integración y propósito conjunto",
+      "tema": "Integración y propósito compartido",
       "titulo": "Cosechar lo aprendido y mirar hacia adelante",
-      "mensaje": "Cada mes ha traído desafíos, aprendizajes y momentos de crecimiento. Detenerse a reconocerlos fortalece el vínculo y refuerza la conciencia emocional. No se trata de ser perfectos, sino de avanzar juntos con intención y respeto.",
-      "actividad": "Dedica unos minutos a revisar los días anteriores y anota los tres aprendizajes personales más importantes de este mes.",
-      "dialogo": "Conversen sobre lo que cada uno sintió que mejoró en la relación durante el mes, y propongan juntos un propósito emocional para el siguiente ciclo."
+      "mensaje": "Un ciclo consciente de amor termina cuando ambos pueden reconocer cuánto han crecido. Integrar aprendizajes implica agradecer, soltar lo que no funcionó y proyectar nuevos horizontes. La pareja madura celebra la evolución, no la perfección. El amor consciente es un proceso continuo de integración emocional.",
+      "actividad": "Revisen los aprendizajes de este mes. Escriban tres compromisos personales y tres como pareja para el siguiente ciclo.",
+      "dialogo": "Conversen sobre qué cambió en su manera de amar desde el inicio de este proceso. ¿Qué desean conservar y qué mejorar?",
+      "riesgo_emocional": "Cerrar un ciclo sin reflexión, repitiendo patrones inconscientes en el futuro.",
+      "autor_referencia": "Terapia de Crecimiento Vincular Integrativo (Johnson & Greenberg, 2020)."
     }
-
+    
   ]
 }
